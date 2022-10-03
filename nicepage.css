@@ -37920,15 +37920,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 116px;
 }
 
 .u-header .u-menu-1 {
-  margin: 22px 0 22px auto;
+  margin: 40px 0 40px auto;
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
+  font-weight: 700;
+  font-size: 1.5rem;
 }
 
 .u-header .u-nav-2 {

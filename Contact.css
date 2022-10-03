@@ -4,8 +4,9 @@
 
 .u-section-1 .u-group-1 {
   width: 800px;
-  min-height: 151px;
-  margin: 147px auto 60px;
+  min-height: 173px;
+  height: auto;
+  margin: 209px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -24,6 +25,17 @@
   font-size: 1.5rem;
   margin: 0 auto;
   padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
 }
 
 @media (max-width: 991px) {
